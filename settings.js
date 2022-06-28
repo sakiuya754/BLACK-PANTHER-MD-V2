@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['Sakeesha Tharinda🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤ST tech show Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94770704840'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'Sakeesha Tharinda🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤ST tech show Bot🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©ST tech show🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://chat.whatsapp.com/LFIjSFPdLd0Em7qKUcMfrR'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = 'https://chat.whatsapp.com/LFIjSFPdLd0Em7qKUcMfrR'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://www.youtube.com/c/STtechshow'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤ST tech show🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤Sakeesha Tharinda🖤'
 
 global.sessionName = 'session'
 
